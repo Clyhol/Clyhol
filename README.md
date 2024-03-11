@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently a studying a masters degree in Psycology Engineering at Aalborg University. Working a lot with prototyping as well as several coding oriented courses such as statistics, front- and backend development, and computer vision.
+
 <!--
 **Clyhol/Clyhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
