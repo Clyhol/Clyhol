@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a studying a masters degree in Psycology Engineering at Aalborg University. Working a lot with prototyping as well as several coding oriented courses such as statistics, front- and backend development, and computer vision.
+Currently a studying, taking a masters degree in Electronics Engineering at Aalborg University. Mostly involved with machine learning / deep learning, but have also worked on projects involving statistical data analysis, and classical computer vision
 
 <!--
 **Clyhol/Clyhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
